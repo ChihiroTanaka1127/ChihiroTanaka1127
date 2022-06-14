@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChihiroTanaka1127
 - 👀 I’m currently learning HTML/CSS/JavaScript.
-- 🌱 I’m looking for a job as an Frontend Engineer.
-- 💞️ If you know any places that I can start working without experiences,please contactme.
+- 🌱 I’m looking for a job in a web developing industry.
 - 📫 I am very open minded, also I have good communication skills both in Japanese and English!
 
 <!---
